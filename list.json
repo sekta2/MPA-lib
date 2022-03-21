@@ -16,5 +16,155 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/ReZero%20-%20Ost2.mp3",
      "title":"Ost2",
      "author":"Re:Zero"
+   },
+   "song4":{
+     "time":161,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Vorovaiki%20-%20Shmon.mp3",
+     "title":"Шмон",
+     "author":"Воровайки"
+   },
+   "song5":{
+     "time":188,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/KXLLYXU%20-%20Moonlight%20Beast.mp3",
+     "title":"MoonLight Beast",
+     "author":"KXLLYXU"
+   },
+   "song6":{
+     "time":114,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/KSLV%20Noh%20-%20Override.mp3",
+     "title":"Override",
+     "author":"KSLV Noh"
+   },
+   "song7":{
+     "time":277,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Viktor%20Tsoi%20-%20Pachka%20Sigaret.mp3",
+     "title":"Пачка Сигарет",
+     "author":"Виктор Цой"
+   },
+   "song8":{
+     "time":290,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Viktor%20Tsoi%20-%20Gryppa%20Krovi.mp3",
+     "title":"Группа Крови",
+     "author":"Виктор Цой"
+   },
+   "song9":{
+     "time":400,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Viktor%20Tsoi%20-%20Kykyshka.mp3",
+     "title":"Кукушка",
+     "author":"Виктор Цой"
+   },
+   "song10":{
+     "time":173,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Viktor%20Tsoi%20-%20Troilebus.mp3",
+     "title":"Тройллейбус",
+     "author":"Виктор Цой"
+   },
+   "song11":{
+     "time":251,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Cyberpunk%202077%20-%20The%20Rebel%20Path.mp3",
+     "title":"The Rebel Path",
+     "author":"Cyberpunk 2077"
+   },
+   "song12":{
+     "time":181,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Linnik%20feat.%20AZAZLO%20-%20MDMA.mp3",
+     "title":"MDMA",
+     "author":"Linnik feat. AZAZLO"
+   },
+   "song13":{
+     "time":334,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Sektor%20Gaza%20-%20Chastyshki.mp3",
+     "title":"Частушки",
+     "author":"Сектор Газа"
+   },
+   "song14":{
+     "time":239,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Diskoteka%20Avaria%20-%20Malinki.mp3",
+     "title":"Малинки",
+     "author":"Дискотека Авария"
+   },
+   "song15":{
+     "time":107,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Cyberpunk%202077%20-%20Mysorshiki.mp3",
+     "title":"Мусорщики",
+     "author":"Cyberpunk 2077"
+   },
+   "song16":{
+     "time":260,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Cyberpunk%202077%20-%20The%20Rebel%20Path%20(Cello%20Version).mp3",
+     "title":"The Rebel Path (Cello Version)",
+     "author":"Cyberpunk 2077"
+   },
+   "song17":{
+     "time":325,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Feder%20(feat.%20Lyse)%20-%20Goodbye%20(Slowed).mp3",
+     "title":"Goodbye (Slowed)",
+     "author":"Feder (feat. Lyse)"
+   },
+   "song18":{
+     "time":222,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Willy%20William%20-%20Ego%20(translate%20to%20russian%20by%20micro%20lis).mp3",
+     "title":"Ego (russian by micro lis)",
+     "author":"Willy William"
+   },
+   "song19":{
+     "time":150,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Girl%20Und%20Panzer%20-%20Katyusha.mp3",
+     "title":"Katyusha",
+     "author":"Girls Und Panzer"
+   },
+   "song20":{
+     "time":295,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Jojo%20-%20il%20vento%20d'oro.mp3",
+     "title":"il vento d'oro",
+     "author":"Jojo"
+   },
+   "song21":{
+     "time":92,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Jojo%20-%20il%20vento%20d'oro.mp3",
+     "title":"Opening 2",
+     "author":"Jojo"
+   },
+   "song22":{
+     "time":92,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Jojo%20-%20il%20vento%20d'oro.mp3",
+     "title":"Opening 2 (rus-cover)",
+     "author":"Jojo"
+   },
+   "song23":{
+     "time":213,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Gimn%20Rossii%20(BassBosted).mp3",
+     "title":"Gimn Rossii",
+     "author":"(none)"
+   },
+   "song24":{
+     "time":152,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/WENARO%20-%20Led.mp3",
+     "title":"Лёд",
+     "author":"WENARO"
+   },
+   "song25":{
+     "time":152,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/WENARO%20-%20Led%20(slowed%20%2B%20reverb).mp3",
+     "title":"Лёд (slowed + reverb)",
+     "author":"WENARO"
+   },
+   "song26":{
+     "time":172,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/LIZER%20-%20Pachka%20Sigaret.mp3",
+     "title":"Пачка Сигарет",
+     "author":"LIZER"
+   },
+   "song27":{
+     "time":185,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/S3RL%20-%20Hentai.mp3",
+     "title":"Hentai",
+     "author":"S3RL"
+   },
+   "song28":{
+     "time":156,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Fem%20Love%20-%20Fotografiryu%20Zakat.mp3",
+     "title":"Фотографирую Закат",
+     "author":"fem.love"
    }
 }
