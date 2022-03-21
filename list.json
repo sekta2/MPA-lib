@@ -184,5 +184,11 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20%2B%20Razboiniki.mp3",
      "title":"Разбойники",
      "author":"Оксимирон Мешап"
+   },
+   "song32":{
+     "time":256,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oomph!%20-%20Labyrinth.mp3",
+     "title":"Labyrinth",
+     "author":"Oomph!"
    }
 }
