@@ -4,5 +4,17 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Fem.Love%20-%201000-7.mp3",
      "title":"1000-7",
      "author":"fem.love"
+   },
+   "song2":{
+     "time":230,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/ReZero%20-%20Ost1.mp3",
+     "title":"Ost1",
+     "author":"Re:Zero"
+   },
+   "song3":{
+     "time":169,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/ReZero%20-%20Ost2.mp3",
+     "title":"Ost2",
+     "author":"Re:Zero"
    }
 }
