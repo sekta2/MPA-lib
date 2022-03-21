@@ -166,5 +166,23 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Fem%20Love%20-%20Fotografiryu%20Zakat.mp3",
      "title":"Фотографирую Закат",
      "author":"fem.love"
+   },
+   "song29":{
+     "time":51,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20%2B%20Barbariki.mp3",
+     "title":"Барбарики",
+     "author":"Оксимирон Мешап"
+   },
+   "song30":{
+     "time":190,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Pyatniza%20-%20Ya%20soldat.mp3",
+     "title":"Я солдат",
+     "author":"PIZZA & Пятница"
+   },
+   "song31":{
+     "time":61,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20%2B%20Razboiniki.mp3",
+     "title":"Разбойники",
+     "author":"Оксимирон Мешап"
    }
 }
