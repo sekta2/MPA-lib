@@ -226,5 +226,17 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Grigoriy%20Leps%20-%20Zaraza.mp3",
      "title":"Зараза",
      "author":"Григорий Лепс"
+   },
+   "song39":{
+     "time":216,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Imagine%20Dragons%20-%20Believer.mp3",
+     "title":"Believer",
+     "author":"Imagine Dragons"
+   },
+   "song40":{
+     "time":171,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/BoyWithUke%20-%20Toxic.mp3",
+     "title":"Toxic",
+     "author":"BoyWithUke"
    }
 }
