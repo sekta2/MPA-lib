@@ -238,5 +238,29 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/BoyWithUke%20-%20Toxic.mp3",
      "title":"Toxic",
      "author":"BoyWithUke"
+   },
+   "song41":{
+     "time":429,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Daft%20Punk%20-%20Around%20The%20World.mp3",
+     "title":"Around The World",
+     "author":"Daft Punk"
+   },
+   "song42":{
+     "time":248,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Daft%20Punk%20-%20Get%20Lucky.mp3",
+     "title":"Get Lucky",
+     "author":"Daft Punk"
+   },
+   "song43":{
+     "time":287,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Daft%20Punk%20-%20Robot%20Rock.mp3",
+     "title":"Robot Rock",
+     "author":"Daft Punk"
+   },
+   "song43":{
+     "time":212,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Sektor%20Gaza%20-%20Bomzh.mp3",
+     "title":"Бомж",
+     "author":"Сектор Газа"
    }
 }
