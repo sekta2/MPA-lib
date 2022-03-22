@@ -308,7 +308,7 @@
    "song52":{
      "time":165,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Boronina%20-%20Vasabi.mp3",
-     "title":"Август",
+     "title":"Васаби",
      "author":"Боронина"
    },
    "song53":{
@@ -316,5 +316,17 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart%20-%20Sweet%20Dreams.mp3",
      "title":"Sweet Dreams",
      "author":"Eurythmics, Annie Lennox, Dave Stewart"
+   },
+   "song54":{
+     "time":158,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/GONE.Fludd%20feat.%20TVETH%20-%20Kill%20La%20Kill.mp3",
+     "title":"Kill La Kill",
+     "author":"GONE.Fludd, feat. TVETH"
+   },
+   "song55":{
+     "time":141,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/The%20Tech%20Thieves%20-%20Fake.mp3",
+     "title":"Fake",
+     "author":"The Tech Thieves"
    }
 }
