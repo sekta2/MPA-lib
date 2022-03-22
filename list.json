@@ -257,10 +257,64 @@
      "title":"Robot Rock",
      "author":"Daft Punk"
    },
-   "song43":{
+   "song44":{
      "time":212,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Sektor%20Gaza%20-%20Bomzh.mp3",
      "title":"Бомж",
      "author":"Сектор Газа"
+   },
+   "song45":{
+     "time":105,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Hikiray%20-%20Yaya.mp3",
+     "title":"Yaya",
+     "author":"Hikiray"
+   },
+   "song46":{
+     "time":89,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Hikiray%20-%20Akudama%20Drive.mp3",
+     "title":"Akudama Drive",
+     "author":"Hikiray"
+   },
+   "song47":{
+     "time":106,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Hikiray%20-%20Domekano.mp3",
+     "title":"Domekano",
+     "author":"Hikiray"
+   },
+   "song48":{
+     "time":142,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Barlas%20%26%20Mert%20-%20Astronaut%20in%20the%20Ocean.mp3",
+     "title":"Astronaut in the Ocean",
+     "author":"Barlas & Mert"
+   },
+   "song49":{
+     "time":132,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Masked%20Wolf%20-%20Astronaut%20in%20the%20Ocean.mp3",
+     "title":"Astronaut in the Ocean",
+     "author":"Masked Wolf"
+   },
+   "song50":{
+     "time":90,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/STXRM%20SUIT%20-%20KEDELA.mp3",
+     "title":"KEDELA",
+     "author":"STXRM SUIT"
+   },
+   "song51":{
+     "time":205,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Intelligency%20-%20August%20Russian%20Version.mp3",
+     "title":"Август",
+     "author":"Intelligency"
+   },
+   "song52":{
+     "time":165,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Boronina%20-%20Vasabi.mp3",
+     "title":"Август",
+     "author":"Боронина"
+   },
+   "song53":{
+     "time":214,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Eurythmics%2C%20Annie%20Lennox%2C%20Dave%20Stewart%20-%20Sweet%20Dreams.mp3",
+     "title":"Sweet Dreams",
+     "author":"Eurythmics, Annie Lennox, Dave Stewart"
    }
 }
