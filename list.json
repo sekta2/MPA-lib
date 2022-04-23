@@ -171,7 +171,7 @@
      "time":51,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20%2B%20Barbariki.mp3",
      "title":"Барбарики",
-     "author":"Оксимирон Мешап"
+     "author":"Оксимирон"
    },
    "song30":{
      "time":190,
@@ -183,7 +183,7 @@
      "time":61,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20%2B%20Razboiniki.mp3",
      "title":"Разбойники",
-     "author":"Оксимирон Мешап"
+     "author":"Оксимирон"
    },
    "song32":{
      "time":256,
@@ -334,5 +334,11 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/shadowraze%20-%20showdown.mp3",
      "title":"shadowraze",
      "author":"showdown"
+   },
+   "song57":{
+     "time":92,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20Meshap%20-%20Evangelion.mp3",
+     "title":"Евангелион",
+     "author":"Оксимирон"
    }
 }
