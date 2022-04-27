@@ -332,13 +332,19 @@
    "song56":{
      "time":121,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/shadowraze%20-%20showdown.mp3",
-     "title":"shadowraze",
-     "author":"showdown"
+     "title":"showdown",
+     "author":"shadowraze"
    },
    "song57":{
      "time":92,
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Oksimiron%20Meshap%20-%20Evangelion.mp3",
      "title":"Евангелион",
      "author":"Оксимирон"
+   },
+   "song58":{
+     "time":309,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Sytricka%20-%20Running%20in%20the%2090s%20Vaporwave.mp3",
+     "title":"Running in the 90s Vaporwave",
+     "author":"Sytricka"
    }
 }
