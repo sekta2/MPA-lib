@@ -346,5 +346,17 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Sytricka%20-%20Running%20in%20the%2090s%20Vaporwave.mp3",
      "title":"Running in the 90s Vaporwave",
      "author":"Sytricka"
+   },
+   "song59":{
+     "time":241,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/apollw%20-%20Evangelion.mp3",
+     "title":"Evangelion",
+     "author":"apollw"
+   },
+   "song60":{
+     "time":247,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Turbo%20-%20Evangelion%20Eurobeat.mp3",
+     "title":"Evangelion Eurobeat",
+     "author":"Turbo"
    }
 }
