@@ -358,5 +358,11 @@
      "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Turbo%20-%20Evangelion%20Eurobeat.mp3",
      "title":"Evangelion Eurobeat",
      "author":"Turbo"
+   },
+   "song61":{
+     "time":302,
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/Turbo%20-%20Il%20vento%20d'orifto.mp3",
+     "title":"il vento d'orifto",
+     "author":"Turbo"
    }
 }
