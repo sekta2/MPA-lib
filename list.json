@@ -367,19 +367,19 @@
    },
    "song62":{
      "time":78,
-     "url":"https://www.dropbox.com/s/pi98w4osw3at613/bgm2.wav?dl=1",
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/bgm2.wav",
      "title":"Song 1",
      "author":"Gachi"
    },
    "song63":{
      "time":85,
-     "url":"https://www.dropbox.com/s/ie2bofz2ewxatng/bgm3.wav?dl=1",
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/bgm3.wav",
      "title":"Song 2",
      "author":"Gachi"
    },
    "song64":{
      "time":215,
-     "url":"https://www.dropbox.com/s/f56lgmq0rt0nsfa/pump.wav?dl=1",
+     "url":"https://github.com/sekta2/MusiC-MLibrary/raw/main/pump.wav",
      "title":"Song 3",
      "author":"Gachi"
    }
